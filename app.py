@@ -227,7 +227,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local('/home/students-aimssn/Documents/Data_collection/exampleApp/image_back.jpeg') 
+add_bg_from_local('image_back.jpeg') 
 
 local_css('style.css')  
 
