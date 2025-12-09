@@ -227,7 +227,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local('image_back.jpeg') 
+add_bg_from_local('image_back.jpg') 
 
 local_css('style.css')  
 
